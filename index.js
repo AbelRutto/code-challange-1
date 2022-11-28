@@ -1,3 +1,5 @@
+//This function is used to generate students grade
+//it uses else ifto grade the marks
 function studentgrade(marks){
 
     if (marks>=0 && marks<=39) {
